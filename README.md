@@ -4,7 +4,7 @@ CCC (or Content Creators Club) was a CTF run by Cyber Discovery which I took par
 
 # Title - DESmond's peculiar image
 
-# Briefing
+## Briefing
 
 We've had our eyes on someone called Desmond Ivanovich. From a first look, he seems like rather not much more than a book nerd, but we think he may be using his platforms as a front to send secret messages out to the public. His twitter handle can be found as @des_ivanovich - see if you can dig up anything else. 
 
